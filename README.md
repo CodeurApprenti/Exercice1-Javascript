@@ -7,7 +7,7 @@
  
 </div>
 
-<h1 align="center">Excercie1-Javascript</h1>
+<h1 align="center">Exercice1-Javascript</h1>
 
 
 
